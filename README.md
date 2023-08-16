@@ -1,5 +1,9 @@
 # Jenkins-CICD-with-GitHub-Integration-for-Django-ToDoList
 
+![CICD](https://github.com/Manoj123-github/Jenkins-CICD-with-GitHub-Integration-for-Django-ToDoList/assets/76830665/bef74223-af6a-4862-8eb9-4cf34e43460a)
+
+
+
 Steps:
  1. Created AWS EC2 instance
  2. installed Jenkins and Java dependecies 
